@@ -1,5 +1,5 @@
 # 🙈 Give me ⭐️ before kanging code
-# © @Xd_Lig🌚
+# © @Xd_Lif 🌚
 
 import requests
 url = "https://iamai.p.rapidapi.com/ask"
